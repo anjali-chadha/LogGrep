@@ -1,0 +1,7 @@
+logs/
+logs2/
+out/
+.idea/
+target/*
+
+LogGrep.iml
