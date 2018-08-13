@@ -4,7 +4,7 @@ A client-server version of grep for logs which  allows developers to quickly sif
 ## Functionalities 
 * Match regular expressions over a directory of files
 * Split each log line into two parts: (a) time/date and (b) rest. Search query now has two parameters: date and time range, and pattern to match over (b).
-* A server using RPC query service. That is, the client sub- mits a query by invoking a remote procedure call.
+* A server using RPC query service. That is, the client submits a query by invoking a remote procedure call.
 * Supports Pagination–return query results in pages. Show number of lines that match
 
 ## Execution Steps:
